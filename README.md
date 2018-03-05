@@ -24,7 +24,11 @@ oscer localhost 8282 /moji 0 脂肪
 
 </pre>
 
-画面GUI : screenshot.png
+画面GUI
 
-出力画像 : drawmoji.png
+![result](https://github.com/bugdelic/printMoji/blob/master/screenshot.png)
 
+
+出力画像 
+
+![result](https://github.com/bugdelic/printMoji/blob/master/drawmoji.png)
